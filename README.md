@@ -13,3 +13,5 @@ be used include the following:
 * Managing authentication and authorization
 * Server and client-side validations
 * Deployment and monitoring
+
+The original tutorial can be found here [Jumpstart Lab - ContactManager](http://tutorials.jumpstartlab.com/projects/contact_manager.html).
