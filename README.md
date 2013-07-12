@@ -1,28 +1,15 @@
-== README
+## Contact Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This advanced Rails project is to create a contact manager. The tool that will
+be used include the following:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Testing with [RSpec](https://relishapp.com/rspec)
+* Creating view templates with [Haml](http://haml.info) and [Sass](http://sass-lang.com)
+* Building complex forms with [Simple Form](https://github.com/plataformatec/simple_form)
+* Building Rails3/AREL queries and scopes
+* Handling file attachments with [Carrierwave](https://github.com/carrierwaveuploader/carrierwave)
+* Building reusable view code with helpers and partials
+* Refactoring
+* Managing authentication and authorization
+* Server and client-side validations
+* Deployment and monitoring
