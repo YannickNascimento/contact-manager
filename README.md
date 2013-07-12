@@ -1,6 +1,6 @@
 ## Contact Manager
 
-This advanced Rails project is to create a contact manager. The tool that will
+This advanced Rails project is to create a contact manager. The tools that will
 be used include the following:
 
 * Testing with [RSpec](https://relishapp.com/rspec)
